@@ -170,8 +170,6 @@ Start the server
   npm run start
 ```
 
-git clone https://github.com/kaushikeemishra/credit-card-fraud-detection.git  
-
 
 jupyter notebook
 
