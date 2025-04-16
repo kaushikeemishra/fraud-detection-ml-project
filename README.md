@@ -196,32 +196,6 @@ jupyter notebook
 - Pandas & NumPy
 - ipywidgets
 
-## 📁 Project Structure
-
-FRAUD-DETECTION-ML-PROJECT/
-├── assets/
-│   └── graphs/
-│       ├── confusion_matrix.png
-│       ├── ROC_curve.png
-│       └── ui_screenshot.png
-│
-├── Code/
-│   ├── Credit Card Fraud Detection - Decision Tree.ipynb
-│   ├── Credit Card Fraud Detection - K-Nearest Neighbor.ipynb
-│   ├── Credit Card Fraud Detection - Logistic Regression.ipynb
-│   ├── Credit Card Fraud Detection - Support Vector Machines.ipynb
-│   ├── Data_Exploration_and_Visualization.ipynb
-│   ├── Feature_Engineering.ipynb
-│   ├── Model_Comparison.ipynb
-│   ├── Model_deployment.ipynb
-│   └── Model_evaluation.ipynb
-│
-├── creditcard.csv
-├── fraud_detection_model.pkl
-├── scaler.pkl
-├── Model/
-└── README.md
-
 
 ## Running Tests
 
